@@ -1,3 +1,5 @@
-**Final Project for COS598D**\n
-Reproduce the previous results\n
+**Final Project for COS598D**
+
+Reproduce the previous results
+
 Work in progress
