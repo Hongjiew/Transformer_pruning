@@ -1,3 +1,3 @@
 **Final Project for COS598D**
-Reproduce a previous result
+Reproduce the previous results
 Work in progress
