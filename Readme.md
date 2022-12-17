@@ -1,6 +1,6 @@
-#### Zero-TPrune: Zero-Shot Token Pruning Leveraging the Attention Probability in Pre-trained Transformers
+#### Zero-TPrune: Zero-Shot Token Pruning Leveraging the Attention Graph in Pre-trained Transformers
 
-**Final Project for COS598D**
+**Final Project for ECE538A**
 
 "DynamicViT" branch is modified based on its [official implementation](https://github.com/raoyongming/DynamicViT)
 
